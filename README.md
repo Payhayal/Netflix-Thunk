@@ -1,4 +1,6 @@
-#Libraries Used:
+#Netflix-Clone-Redux-Thunk
+
+#Libraries Used::
 
 -react-router-dom
 
