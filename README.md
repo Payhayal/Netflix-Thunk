@@ -1,7 +1,9 @@
 #Netflix-Clone-Redux-Thunk
 
-#Libraries Used::
+#Libraries Used:
 
+-react-router-dom
+-react-router-dom
 -react-router-dom
 
 -redux
