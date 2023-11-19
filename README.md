@@ -20,10 +20,6 @@
 API: https://developer.themoviedb.org/reference/changes-tv-list
 
 
-##SCREEN GIF
-
-![](netflix.mp4)
-
 
 ##SCREEN VIEW
 
